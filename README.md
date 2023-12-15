@@ -14,7 +14,7 @@
 
 <p align="center">
     <a href="https://github.com/hafizwaqarDev">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&lines=Python%20Deveopler;Python%20Web%20Scraper;Web%20Automation%20Expert;2%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45" alt="Typing Animation"> 
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&lines=Python%20Deveopler;Python%20Web%20Scraper;Web%20Automation%20Expert;5%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45" alt="Typing Animation"> 
     </a>
 </p>
 
@@ -46,7 +46,37 @@
 <h1 align="center">👩‍💻 About Me</h1>
 
 <p align="center">
-    <br>Hello! I am Hafiz Waqar. I have more than two years of experience in several Web Scraping / Data Extraction projects using Python frameworks and other tools (Scrapy and Selenium). I can scrape any website, e.g., Dynamic (JavaScript / Ajax-based) websites, Login Required Sites, and IP Blocking Sites. I can provide Scrapped data in XLSX, CSV (Google Sheets or Excel), JSON, and the desired database. I am skilled with: - Python, HTML, HTML5, and CSS3 Strong Grip on Python libraries like: - Scrapy, Selenium, Requests, BeautifulSoup, LXML.
+    <br>Hello! I am Hafiz Waqar. I have more than Five years of experience in several Web Scraping / Data Extraction projects using Python frameworks and other tools (Scrapy and Selenium). I can scrape any website, e.g., Dynamic (JavaScript / Ajax-based) websites, Login Required Sites, and IP Blocking Sites. I can provide Scrapped data in XLSX, CSV (Google Sheets or Excel), JSON, and the desired database. I am skilled with: - Python, HTML, HTML5, and CSS3 Strong Grip on Python libraries like: - Scrapy, Selenium, Requests, BeautifulSoup, LXML.
+
+Greetings! I'm your one-stop solution for all things related to web scraping, data entry, data mining, data extraction, and web development. With a strong command of Python and a toolkit that includes BeautifulSoup, Selenium, Scrapy, Parsehub, Octoparse, and Django, I'm ready to bring your data and web projects to life.
+
+Why Choose Me?
+
+✅ Web Scraping Mastery: I excel in extracting data from websites of all complexities. From e-commerce to real estate and social media, I can retrieve structured data efficiently and accurately.
+
+✅ Data Mining and Analysis: Transforming raw data into actionable insights is my specialty. I'm skilled at uncovering hidden patterns and trends within your data.
+
+✅ Data Entry Precision: Need data organized and inputted meticulously? I ensure data accuracy and consistency in all data entry tasks.
+
+✅ Data Extraction Expert: Extracting specific information from complex websites using tools like Parsehub and Octoparse is a breeze for me.
+
+✅ Web Development Proficiency: As a web developer with expertise in Django and web development, I can create and enhance web applications to meet your business goals.
+
+My Skills and Specializations:
+
+🌐 Web Scraping: Python-based web scraping using BeautifulSoup, Selenium, Scrapy, Parsehub, Octoparse.
+
+📊 Data Mining and Analysis: Uncovering actionable insights from raw data.
+
+📥 Data Entry: Precise and organized data input.
+
+🔗 Data Extraction: Expertise in extracting data from complex websites.
+
+🌐 Web Development: Building web applications with Django and enhancing online presence.
+
+Let's Discuss Your Project:
+
+Ready to take your project to the next level? I'm eager to hear about your specific requirements and tailor a solution to meet your needs. Don't hesitate to reach out, and together, we'll turn your data and web challenges into success stories!
 </p>
 
 <br>
