@@ -14,7 +14,7 @@
 
 <p align="center">
     <a href="https://github.com/hafizwaqarDev">
-        <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&lines=Python%20Deveopler;Python%20Web%20Scraper;Web%20Automation%20Expert;5%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=380&height=45" alt="Typing Animation"> 
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=20&lines=Python%20Web%20Developer;Python%20Web%20Scraper;Web%20Automation%20Expert;5%20years%20of%20coding%20experience;Always%20learning%20new%20things&center=true&width=500&height=50" alt="Typing Animation"> 
     </a>
 </p>
 
@@ -29,7 +29,7 @@
 <br>
 
 <h1 align="center">Hi 👋, I'm Hafiz Waqar</h1>
-<h3 align="center">A Professional Web Scraper (Web Scraping, Web Automation, Data Scraping) from Pakistan</h3>
+<h3 align="center">A Professional Web Developer & Scraper (Web Scraping, Web Automation, Data Scraping) from Pakistan</h3>
 
 <br>
 
@@ -46,7 +46,7 @@
 <h1 align="center">👩‍💻 About Me</h1>
 
 <p align="center">
-    <br>Hello! I am Hafiz Waqar. I have more than Five years of experience in several Web Scraping / Data Extraction projects using Python frameworks and other tools (Scrapy and Selenium). I can scrape any website, e.g., Dynamic (JavaScript / Ajax-based) websites, Login Required Sites, and IP Blocking Sites. I can provide Scrapped data in XLSX, CSV (Google Sheets or Excel), JSON, and the desired database. I am skilled with: - Python, HTML, HTML5, and CSS3 Strong Grip on Python libraries like: - Scrapy, Selenium, Requests, BeautifulSoup, LXML.
+    <br>Hello! I am Hafiz Waqar. I have more than Five years of experience in several Web Scraping / Web Development / Data Extraction projects using Python, Java Script frameworks and other tools (Django,Angular,React,Scrapy and Selenium). I can scrape any website, e.g., Dynamic (JavaScript / Ajax-based) websites, Login Required Sites, and IP Blocking Sites. I can provide Scrapped data in XLSX, CSV (Google Sheets or Excel), JSON, and the desired database. I am skilled with: - Python, Java Script, Bootstrap, HTML, HTML5, and CSS3 Strong Grip on Python libraries like: - Scrapy, Selenium, Requests, BeautifulSoup, LXML.
 
     Greetings! I'm your one-stop solution for all things related to web scraping, data entry, data mining, data extraction, and web development. With a strong command of Python and a toolkit that includes BeautifulSoup, Selenium, Scrapy, Parsehub, Octoparse, and Django, I'm ready to bring your data and web projects to life.
     
@@ -87,9 +87,9 @@
     <img align="right" width="350" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" alt="Coding gif" />
     <br>
     - 🔭 I’m currently working on **Fiverr and Upwork**<br>
-    - 🌱 I’m currently learning **Web Development**<br>
+    - 🌱 I’m currently learning **Destop and Mobile Application**<br>
     - 👯 I’m looking to collaborate on **Cloud Native Project**<br>
-    - 🤝 I’m looking for help with **Web Scraper**<br>
+    - 🤝 I’m looking for help with **Web Developer and Web Scraper**<br>
     - 👨‍💻 All of my projects are available at [https://github.com/hafizwaqarDev]<br>
     - 💬 Ask me about **Web Scraping and web automation**<br>
     - 📫 How to reach me **hafizwaqar.github@gmail.com**<br>
