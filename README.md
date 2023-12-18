@@ -86,12 +86,12 @@
 <p align="left">
     <img align="right" width="350" src="https://raw.githubusercontent.com/jsuarezruiz/jsuarezruiz/master/images/coding.gif" alt="Coding gif" />
     <br>
-    - 🔭 I’m currently working on **Fiverr and Upwork**<br>
-    - 🌱 I’m currently learning **Destop and Mobile Application**<br>
+    - 🔭 I’m currently working on **Fiverr & Upwork**<br>
+    - 🌱 I’m currently learning **Destop & Mobile Application**<br>
     - 👯 I’m looking to collaborate on **Cloud Native Project**<br>
-    - 🤝 I’m looking for help with **Web Developer and Web Scraper**<br>
+    - 🤝 I’m looking for help with **Web Developer & Scraper**<br>
     - 👨‍💻 All of my projects are available at [https://github.com/hafizwaqarDev]<br>
-    - 💬 Ask me about **Web Scraping and web automation**<br>
+    - 💬 Ask me about **Web Scraping & web automation**<br>
     - 📫 How to reach me **hafizwaqar.github@gmail.com**<br>
     - ⚡ Fun fact **I can create an automation bot and script for you.**<br>
 </p>
